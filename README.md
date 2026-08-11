@@ -74,3 +74,6 @@ The Power BI dashboard includes:
 
 - Nestle India's data has fewer year-over-year points due to a fiscal year-end change during the analysis period.
 - Ratios are based on `yfinance` data, which may occasionally differ slightly from figures reported directly by companies or platforms like screener.in.
+
+## Author
+Jeba Perveen
